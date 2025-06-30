@@ -23,6 +23,4 @@ The Transportation Networks for Research team and contributing institutions are 
 
 ### Code Description
 
-This project includes two Python scripts, implementing:  
-- a stochastic model based on the logit choice model;  
-- a deterministic model that chooses the minimum cost action at each node.
+This project includes a Python scrip, implementing a stochastic model based on the logit choice model.
